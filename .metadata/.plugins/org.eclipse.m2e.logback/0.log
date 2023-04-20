@@ -1,0 +1,197 @@
+2023-04-17 14:24:13,187 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 14:28:21,292 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-17 14:28:22,971 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/main/java
+2023-04-17 14:28:22,972 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:28:22,978 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:28:22,986 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/test/java
+2023-04-17 14:28:25,556 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-04-17 14:28:25,562 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-17 14:28:26,095 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-17 14:28:27,079 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/main/java
+2023-04-17 14:28:27,080 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:28:27,080 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:28:27,082 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/test/java
+2023-04-17 14:28:28,804 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 1,00 sec 
+2023-04-17 14:28:30,461 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-17 14:28:30,488 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 14:28:30,500 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-17 14:29:59,898 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-17 14:30:00,706 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 14:30:00,707 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 14:30:00,713 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-17 14:45:09,701 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-17 14:45:09,745 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 14:45:09,750 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-17 14:46:28,542 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-17 14:46:28,906 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-17 14:46:29,580 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/main/java
+2023-04-17 14:46:29,580 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:46:29,581 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /invetory/src/main/resources
+2023-04-17 14:46:29,581 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /invetory/src/test/java
+2023-04-17 14:46:30,191 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-04-17 14:46:30,642 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-17 14:46:30,663 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 14:46:30,669 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 07:34:49,734 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-18 07:39:47,967 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 07:39:48,041 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 07:39:48,052 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 07:48:26,913 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 07:48:26,924 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 07:48:26,930 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 07:58:37,540 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 07:58:37,556 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 07:58:37,562 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 07:59:00,892 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 08:05:49,022 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-18 08:05:50,193 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 08:05:50,217 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 08:05:50,224 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 08:05:51,573 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26-sources.jar
+2023-04-18 08:05:52,354 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26-sources.jar
+2023-04-18 08:05:52,359 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.26
+2023-04-18 08:23:03,282 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 08:23:03,326 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 08:23:03,332 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 08:27:54,375 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 08:27:54,407 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 08:27:54,412 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 10:30:27,246 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 10:30:27,260 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 10:30:27,265 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 10:37:12,230 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 10:37:12,243 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 10:37:12,247 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 10:46:05,400 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 10:46:05,433 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 10:46:05,440 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:08:17,938 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-18 11:08:19,008 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:08:19,009 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:08:19,016 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:08:23,271 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:08:23,312 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:08:23,320 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:38:11,921 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:38:11,942 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:38:11,947 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:40:16,875 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:40:16,886 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:40:16,891 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:44:43,851 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:44:43,862 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:44:43,867 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:46:00,726 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:46:00,735 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:46:00,742 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:46:37,932 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:46:37,943 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:46:37,948 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-18 11:49:11,254 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 11:49:11,261 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 11:49:11,266 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 06:58:55,463 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 07:10:17,721 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 07:10:17,792 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 07:10:17,806 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 07:21:08,262 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 07:21:08,293 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 07:21:08,308 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 07:21:33,824 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 07:21:33,834 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 07:21:33,839 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 07:24:56,906 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 07:24:56,938 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 07:24:56,943 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 07:25:00,964 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 07:25:00,972 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 07:25:00,977 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 09:55:21,684 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 09:55:21,751 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 09:55:21,772 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 09:55:40,101 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 09:55:40,110 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 09:55:40,143 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 09:56:26,275 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 09:56:26,289 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 09:56:26,295 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 09:59:16,974 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 09:59:16,984 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 09:59:16,989 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 09:59:18,891 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 09:59:18,901 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 09:59:18,906 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 11:05:42,971 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 11:05:42,999 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 11:05:43,004 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 11:07:38,501 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 11:07:38,527 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 11:07:38,535 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 11:17:39,550 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 11:17:39,570 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 11:17:39,575 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 11:26:16,134 [Worker-50: Compute Mappings for project invetory] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.termoplast.inventory:invetory:0.0.1-SNAPSHOT @ C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\pom.xml.
+2023-04-19 11:44:17,072 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 11:44:17,083 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 11:44:17,089 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-19 11:55:24,517 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-19 11:55:24,528 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-19 11:55:24,532 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 06:49:42,405 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-20 06:53:46,484 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 06:53:46,536 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 06:53:46,558 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 07:16:27,486 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 07:16:27,556 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 07:16:27,565 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 07:21:48,631 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 07:21:48,640 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 07:21:48,646 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 07:50:23,603 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 07:50:23,621 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 07:50:23,625 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 08:00:07,759 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 08:00:07,773 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 08:00:07,779 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 08:25:14,350 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 08:25:14,362 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 08:25:14,367 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 08:39:59,919 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 08:39:59,931 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 08:39:59,936 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 13:49:05,989 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 13:49:06,053 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 13:49:06,058 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:12:27,255 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:12:27,269 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:12:27,276 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:20:51,462 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:20:51,472 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:20:51,477 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:39:10,828 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:39:10,839 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:39:10,848 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:41:13,528 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:41:13,538 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:41:13,546 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:56:02,665 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:56:02,688 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:56:02,699 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:57:54,415 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:57:54,427 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:57:54,431 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 14:58:03,986 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 14:58:03,999 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 14:58:04,010 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 15:01:56,163 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 15:01:56,175 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 15:01:56,180 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 15:03:58,310 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 15:03:58,321 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 15:03:58,325 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 15:13:47,448 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 15:13:47,459 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 15:13:47,463 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources
+2023-04-20 15:26:06,107 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-20 15:26:06,118 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-20 15:26:06,123 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\termo\OneDrive\Desktop\proyectos SpringBoot\invetory\src\test\resources

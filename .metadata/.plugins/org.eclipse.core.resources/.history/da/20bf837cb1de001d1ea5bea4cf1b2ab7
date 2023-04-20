@@ -1,0 +1,5 @@
+package com.termoplast.inventory.services;
+
+public class CategoryServiceimpl {
+
+}

@@ -1,0 +1,5 @@
+package com.termoplast.inventory.controller;
+
+public class CategoryRestController {
+
+}

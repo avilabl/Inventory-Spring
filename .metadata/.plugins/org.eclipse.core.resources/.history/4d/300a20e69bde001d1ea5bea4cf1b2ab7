@@ -1,0 +1,5 @@
+package com.termoplast.inventory.dao;
+
+public class ICategoryDao {
+
+}

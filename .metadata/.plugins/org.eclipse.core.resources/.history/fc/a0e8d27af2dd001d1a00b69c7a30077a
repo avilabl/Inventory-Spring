@@ -1,0 +1,5 @@
+package com.termoplast.inventory.response;
+
+public class categoryResponse {
+
+}

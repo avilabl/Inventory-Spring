@@ -1,0 +1,17 @@
+package com.termoplast.inventory.services;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.termoplast.inventory.response.CategoryResponseRest;
+
+@Service
+public class CategoryServiceImpl implements ICategoryService{
+
+	@Override
+	public ResponseEntity<CategoryResponseRest> Search() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

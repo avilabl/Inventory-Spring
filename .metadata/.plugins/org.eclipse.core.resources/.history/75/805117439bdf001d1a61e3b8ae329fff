@@ -1,0 +1,14 @@
+package com.termoplast.inventory.services;
+
+import org.springframework.http.ResponseEntity;
+
+import com.termoplast.inventory.model.Category;
+import com.termoplast.inventory.response.CategoryResponseRest;
+
+public interface ICategoryService {
+	
+	public ResponseEntity<CategoryResponseRest> Search();
+	public ResponseEntity<CategoryResponseRest> SearchById(Long id);
+	public ResponseEntity<CategoryResponseRest> save(Category category);
+
+}

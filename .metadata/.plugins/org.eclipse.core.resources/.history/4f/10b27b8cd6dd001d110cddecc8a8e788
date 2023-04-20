@@ -1,0 +1,5 @@
+package com.termoplast.inventory.model;
+
+public class Category {
+
+}
